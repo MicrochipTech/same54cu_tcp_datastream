@@ -1,0 +1,14 @@
+configName: default
+folderName: same54_cu_tcpip
+format_version: v1.0
+frameworkPath: ..\..\Harmony3
+processor: ATSAME54P20A
+projectName: same54_cu_tcpip
+settings:
+  PackageFilter: bootloader;bsp;classb_pic32cm_mc;core;core_apps_pic32mz_da;core_apps_sam_d21_da1;core_apps_sam_e70_s70_v70_v71;crypto;csp;csp_apps_sam_d21_da1;Devices;dev_packs;harmony-services;motor_control;net;net_10base_t1s;quick_docs;touch;usb;wireless_system_pic32mzw1_wfi32e01;wireless_wifi;x2c
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\SAME54_DFP\3.7.122\atdf\ATSAME54P20A.atdf
