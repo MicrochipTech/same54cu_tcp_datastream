@@ -65,7 +65,7 @@ gcc -o client berkeleyAPIclient.c
 5. The client program will echo the data being sent by the server. This may be further verified by observing the Wireshark capture.
 It should be similar to the stream below:
 
-![pcap](images/WiresharkTCPStream.PNG)
+![pcap](images/WiresharkTCPStream.png)
 
 
 
