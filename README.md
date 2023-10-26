@@ -69,11 +69,3 @@ It should be similar to the stream below:
 
 
 
-## History:
-
-
-| Date        | Description     | Modified By:            |
-| ----------- | --------------- | ----------------------- |
-| 12-Oct-2023 | Initial release | [A69614] - N. Arriola   |
-|             |                 |                         |
-
